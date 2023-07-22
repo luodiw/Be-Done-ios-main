@@ -1,0 +1,6 @@
+framework module Pods_BeDone_BeDoneUITests {
+  umbrella header "Pods-BeDone-BeDoneUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
